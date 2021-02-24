@@ -7,7 +7,7 @@ stages {
 stage ("build"){
 
     steps {
-      echo 'building the test application..'
+      echo 'building the test application...changing this line.'
     }
 
 }
